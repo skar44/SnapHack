@@ -30,7 +30,12 @@
 
 #الاوامر لتشغيل الاداة
 
-git clone https://github.com/skar44/skar-hack
+#sudo apt-get install git
+
+git clone https://github.com/skar44/SnapHack
+
+
+#sudo apt-get update
 
 #sudo apt-get install tor
 
