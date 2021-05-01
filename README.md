@@ -18,8 +18,7 @@
    @skar44
    
    اشترك في قناتنا لكي تنضم لنا
-   
-   https://www.youtube.com/channel/UC9HW3go2iW6T2sCbrh7bhew?view_as=subscriber
+   https://youtube.com/c/SKARHACK
    
    
    #إخلاء المسؤولية القانونية
