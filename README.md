@@ -29,7 +29,7 @@
 
 #الاوامر لتشغيل الاداة
 
-#sudo apt-get install git
+
 
 git clone https://github.com/skar44/SnapHack
 
