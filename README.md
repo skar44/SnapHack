@@ -44,6 +44,8 @@ git clone https://github.com/skar44/SnapHack
 
 #sudo apt-get install python2
 
+#sudo chmod +x install.sh
+
 #sudo ./install.sh
 
 #run ror
