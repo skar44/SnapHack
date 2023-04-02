@@ -44,6 +44,10 @@ git clone https://github.com/skar44/SnapHack
 
 #sudo apt-get install python2
 
-#chmod +x SnapHack.sh
+#sudo ./install.sh
 
-#sudo bash SnapHack.sh
+#run ror
+
+#chmod +x Snaphack.sh
+
+#sudo bash Snaphack.sh
