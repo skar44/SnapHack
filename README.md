@@ -1,6 +1,6 @@
 # SKAR HACK
 
-#SnapHck
+#Snap Hck
 
 اداة اختراق حسابات snapchat
 
